@@ -1,6 +1,7 @@
 # NaN_Projects
 Mes Projets NaN
-
+# Assurance Automobile
+    lien : https://diaramadou.github.io/NaN_Projects/Assurance-Automobile/
 
 # Projet 1 : E-commerce
 
@@ -13,7 +14,7 @@ Mes Projets NaN
     - `gérer la responsivité`
     - `pas de copier-coller du code d'un site quelquonque`
     - `pas de bouton "payer", à la place ajouter plutôt un bouton "commander sur WhatsApp" qui redirigera sur le WhatsApp du commerçant , là bas le client pourra finaliser la commande`
-
+  lien : https://diaramadou.github.io/NaN_Projects/e-commerce/
 
 
  # Projet 2 : Gestion du personnel
@@ -33,3 +34,4 @@ Mes Projets NaN
     - ` un volet bilan ou l'administrateur pourra consulter le bilan des tâches et des paiements effectués par semaine, par mois`
     - `l'application doit être responsive, simuler les actions de l'administrateur avec localStorage ou sessionStorage. Simuler le paiements des travailleurs par OM (Orange Money, Moov Money,Mtn Money,Wave)`
 
+    lien : https://diaramadou.github.io/NaN_Projects/RiZ-Local-Diara-Prod/
